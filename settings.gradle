@@ -1,0 +1,3 @@
+rootProject.name = 'com.polyglot'
+include 'app'
+
